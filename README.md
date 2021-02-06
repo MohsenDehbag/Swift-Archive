@@ -8,7 +8,7 @@
 
 # دسته بندی برنامه ها
 
-[ساده ها](https://github.com/MohsenDehbag/Swift-Archive/tree/main/Beginner) (۱)
+[ساده ها](https://github.com/MohsenDehbag/Swift-Archive/tree/main/Beginner) (۲)
 
 رابط کاربری (۰)
 
