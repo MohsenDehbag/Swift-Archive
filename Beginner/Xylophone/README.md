@@ -1,6 +1,6 @@
 # آوای چوبی (زایلوفون)
 
-<img src="/Beginner/Xylophone/Xylophone/shot.png" style="zoom:50%;" />
+<img src="/Beginner/Xylophone/Xylophone/shot.png" style="zoom:20%;" />
 
 یه برنامه زایلوفون ساده که نوت هایی که میزنید رو به صدا در میاره.
 
