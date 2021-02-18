@@ -2,7 +2,7 @@
 
 تایمری برای این که به تخم مرغ مورد علاقه‌تون برسید.
 
-<img src="/Users/mohsen/Code/Beginner/Ab-Paz/eggggg.png" style="zoom:33%;" />
+<img src="/Users/mohsen/Code/Beginner/Ab-Paz/eggggg.png"/>
 
 # کار های آينده
 
